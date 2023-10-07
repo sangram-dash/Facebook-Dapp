@@ -1,0 +1,41 @@
+[{
+    "user": "TestUser1",
+    "imageUrl":
+        "https://pin.ski/3F3pqH4",
+    "likes": 1
+},
+{
+    "user": "TestUser1",
+    "imageUrl":
+        "https://pin.ski/3LPQEEQ",
+    "likes": 1
+},
+{
+    "user": "Sangram",
+    "imageUrl":
+        "https://pin.ski/3RO5bVa",
+    "likes": 1
+},
+{
+    "user": "TestUser2",
+    "imageUrl":
+        "https://pin.ski/3LPYPAR",
+    "likes": 1
+},
+{
+    "user": "TestUser2",
+    "imageUrl":
+        "https://pin.ski/3RHUKCK",
+    "likes": 1
+},{
+    "user": "Sangram",
+    "imageUrl":
+        "https://pin.ski/3RLizcH",
+    "likes": 1
+},{
+    "user": "TestUser3",
+    "imageUrl":
+        "https://pin.ski/46vwfNg",
+    "likes": 1
+}
+]
